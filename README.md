@@ -1,6 +1,6 @@
 # How to Become a Cloud Solution Architect (CSA) - O'Reilly Course
 
-Welcome to the **"How to Become a Cloud Solution Architect"** course by O'Reilly! This guide will walk you through the capstone materials, including translating business requirements into technical architecture, presenting your architecture, deploying an AKS cluster, and setting up the AKS demo store.
+Welcome to the **["How to Become a Cloud Solution Architect](https://www.oreilly.com/library/view/becoming-a-cloud/0642572030667/?_gl=1*1n464e6*_ga*MTkxNjMyMDY2My4xNzQzMjE3MzA4*_ga_092EL089CH*MTc0MzIxNzMwNy4xLjEuMTc0MzIxNzMyNy40MC4wLjA.)"** course by O'Reilly! This guide will walk you through the capstone materials, including translating business requirements into technical architecture, presenting your architecture, deploying an AKS cluster, and setting up the AKS demo store.
 
 ---
 
